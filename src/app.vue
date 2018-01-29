@@ -3,8 +3,8 @@
    <div id="app">
        <div id="cover"></div>
        <Header></Header>
-       <Footer></Footer>
        <Todo></Todo>
+       <Footer></Footer>
    </div>
 </template>
 
