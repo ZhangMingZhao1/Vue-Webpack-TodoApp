@@ -6,9 +6,12 @@
 
 或者：
 git clone https://github.com/ZhangMingZhao1/Vue-Webpack-TodoApp.git
+
 npm install
+
 npm run dev 
+
 进行二次开发
 
 
-作为Vue组合Webpack来练手的项目最好不过了。=-=
+作为Vue组合Webpack来练手的项目最好不过了。(|´・ω・)ノ
